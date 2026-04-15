@@ -93,7 +93,7 @@ Final-year IT student at Jadavpur University (2026), focused on backend systems,
   <a href="mailto:somnath012003@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/somnath-mishra-454052252d">
+  <a href="https://www.linkedin.com/in/somnath-mishra-454052252/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
