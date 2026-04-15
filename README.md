@@ -71,6 +71,13 @@ Final-year IT student at Jadavpur University (2026), focused on backend systems,
 - Automatically generates support tickets using AI agents  
 - Reduces manual operational effort  
 
+## Achievements
+
+<p>
+  <a href="https://leetcode.com/u/SOMNATH_MISHRA/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="25"/>
+  </a> - LeetCode: Highest rating 2166 (Guardian), Top 1% globally, Highest Rank 203 / 41K
+</p>
 
 ## GitHub Stats
 
