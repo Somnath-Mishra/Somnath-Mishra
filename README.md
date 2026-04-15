@@ -1,33 +1,103 @@
-![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/gif-banner-for-website-5.gif)
+<h1 align="center">Hi, I'm Somnath Mishra</h1>
+<h3 align="center">Backend & Systems Engineer | Open Source Contributor</h3>
 
-<h1 align="center">Hi 👋, I'm Somnath Mishra</h1>
-<h3 align="center">A passionate fullstack software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+---
 
+## About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somnath-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="somnath-mishra" /> </p>
+Final-year IT student at Jadavpur University (2026), focused on backend systems, data infrastructure, and scalable architectures.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somnath-mishra" alt="somnath-mishra" /></a> </p>
+- Working on backend data migration using Apache Beam on GCP  
+- Contributing to open source (Oppia)  
+- Interested in distributed systems and serverless architectures  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 💬 Ask me about **Web Development**<br>
-and C++
+## Tech Stack
 
-- 📫 How to reach me **somnath012003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/somnath-mishra-454052252d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somnath-mishra-454052252d" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/somnath012003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="somnath012003" height="30" width="40" /></a>
-
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,sql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### Backend & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb" />
+</p>
+<p>
+  Apache Beam, DBT, REST APIs, ETL Pipelines
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somnath-mishra&show_icons=true&locale=en&layout=compact" alt="somnath-mishra" /></p>
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somnath-mishra&show_icons=true&locale=en" alt="somnath-mishra" /></p>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath-mishra&" alt="somnath-mishra" /></p>
+---
+
+## Experience
+
+**Open Source Contributor — Oppia**
+- Built backend data migration and audit pipelines using Apache Beam on GCP  
+- Wrote acceptance tests for new features  
+- Improved reliability of data workflows
+- Solved high-impact backend issues.
+
+**Advanced Application Engineering Intern — Accenture**
+- Built a serverless DBT lineage visualization tool  
+- Developed an Agentic AI-powered support ticket automation system  
+- Worked with cloud-based backend architectures  
+
+---
+
+## Projects
+
+**CareX — Full-Stack Healthcare Platform**  
+- Built a full-stack system for doctor consultation, scheduling, and appointment booking  
+- Integrated Stripe and Razorpay for secure payments  
+- Used Google Calendar API for automated scheduling and reminders  
+- Implemented JWT-based authentication and role-based access control  
+- Designed scalable backend APIs using Express and MongoDB  
+
+**DBT Lineage Visualization Tool**
+- Visualizes dependencies in data pipelines  
+- Built using serverless architecture  
+
+**AI Support Ticket Automation**
+- Automatically generates support tickets using AI agents  
+- Reduces manual operational effort  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somnath-Mishra&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somnath-mishra" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="mailto:somnath012003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/somnath-mishra-454052252d">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+## Resume
+
+<p>
+  <a href="https://drive.google.com/file/d/1YiKK8gWMFRPYZbnyAGWCqerDKq2iqJHq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
