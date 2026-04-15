@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Somnath Mishra</h1>
 <h3 align="center">Backend & Systems Engineer | Open Source Contributor</h3>
 
----
+
 
 ## About Me
 
@@ -11,7 +11,7 @@ Final-year IT student at Jadavpur University (2026), focused on backend systems,
 - Contributing to open source (Oppia)  
 - Interested in distributed systems and serverless architectures  
 
----
+
 
 ## Tech Stack
 
@@ -23,9 +23,8 @@ Final-year IT student at Jadavpur University (2026), focused on backend systems,
 ### Backend & Data
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb" />
-</p>
-<p>
-  Apache Beam, DBT, REST APIs, ETL Pipelines
+  <img src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right.svg" height="45" alt="Apache Beam"/>
+  <img src="https://cdn.simpleicons.org/postman" height="45" alt="Postman"/>
 </p>
 
 ### Cloud & DevOps
@@ -38,7 +37,7 @@ Final-year IT student at Jadavpur University (2026), focused on backend systems,
   <img src="https://skillicons.dev/icons?i=react,angular" />
 </p>
 
----
+
 
 ## Experience
 
@@ -53,7 +52,7 @@ Final-year IT student at Jadavpur University (2026), focused on backend systems,
 - Developed an Agentic AI-powered support ticket automation system  
 - Worked with cloud-based backend architectures  
 
----
+
 
 ## Projects
 
@@ -72,7 +71,6 @@ Final-year IT student at Jadavpur University (2026), focused on backend systems,
 - Automatically generates support tickets using AI agents  
 - Reduces manual operational effort  
 
----
 
 ## GitHub Stats
 
@@ -81,7 +79,6 @@ Final-year IT student at Jadavpur University (2026), focused on backend systems,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somnath-mishra" />
 </p>
 
----
 
 ## Connect With Me
 
